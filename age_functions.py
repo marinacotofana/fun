@@ -28,3 +28,23 @@ age_gap = oldest_age - youngest_age
 print("Oldest age is " , oldest_age)
 print("Youngest age is " , youngest_age)
 print ("Age gap between " , age_gap )
+
+# define a function that takes no arguments and returns a dictionary of names and ages
+
+  # initiate the dict
+
+  # run a while loop taking in names and ages that quits when the user enters quit
+
+    # check if the user has quit
+
+      #if they have end the loop
+
+      # if they havent update the dict with their name and age
+  
+  # return the dict
+
+# using a for loop return a print stating each person's name along with their age
+
+# change the dict to instead contain a dict for each name within the dict that has their email and age, all ages should be in the form name@lewagon.com and in lower case
+
+# print a line for each person stating their name, email and time till retirement (assume a retirement age of 64)
